@@ -1,4 +1,4 @@
-# desafio-multithreading
+# Desafio Multithreading
 
 Desafio feito para o curso de Go Expert da plataforma FullCycle
 
